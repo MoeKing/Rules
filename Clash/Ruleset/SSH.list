@@ -1,0 +1,15 @@
+# FileZilla
+PROCESS-NAME,filezilla.exe
+PROCESS-NAME,fzputtygen.exe
+PROCESS-NAME,fzsftp.exe
+PROCESS-NAME,fzstorj.exe
+PROCESS-NAME,uninstall.exe
+# PuTTY
+PROCESS-NAME,pageant.exe
+PROCESS-NAME,plink.exe
+PROCESS-NAME,pscp.exe
+PROCESS-NAME,psftp.exe
+PROCESS-NAME,putty.exe
+PROCESS-NAME,puttygen.exe
+# WinSCP
+PROCESS-NAME,WinSCP.exe
