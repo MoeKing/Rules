@@ -395,7 +395,6 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlaspost.com
 DOMAIN-SUFFIX,atnext.com
-DOMAIN-SUFFIX,auctions.yahoo.co.jp
 DOMAIN-SUFFIX,auntology.fandom.com
 DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
@@ -636,7 +635,6 @@ DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogs.icerocket.com
 DOMAIN-SUFFIX,blogs.libraryinformationtechnology.com
 DOMAIN-SUFFIX,blogs.tampabay.com
-DOMAIN-SUFFIX,blogs.yahoo.co.jp
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,blogspot.jp
@@ -737,7 +735,6 @@ DOMAIN-SUFFIX,businessweek.com
 DOMAIN-SUFFIX,busu.org
 DOMAIN-SUFFIX,busytrade.com
 DOMAIN-SUFFIX,buugaa.com
-DOMAIN-SUFFIX,buy.yahoo.com.tw
 DOMAIN-SUFFIX,buzzhand.com
 DOMAIN-SUFFIX,buzzhand.net
 DOMAIN-SUFFIX,buzzorange.com
@@ -1212,7 +1209,6 @@ DOMAIN-SUFFIX,darktoy.net
 DOMAIN-SUFFIX,darpa.mil
 DOMAIN-SUFFIX,darrenliuwei.com
 DOMAIN-SUFFIX,dastrassi.org
-DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,data.gov.tw
 DOMAIN-SUFFIX,data-vocabulary.org
 DOMAIN-SUFFIX,daum.net
@@ -1369,7 +1365,6 @@ DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,duckduckgo-owned-server.yahoo.net
 DOMAIN-SUFFIX,duckload.com
 DOMAIN-SUFFIX,duckmylife.com
 DOMAIN-SUFFIX,duga.jp
@@ -1723,6 +1718,7 @@ DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,flnet.org
 DOMAIN-SUFFIX,flog.tw
+DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,flyvpn.com
 DOMAIN-SUFFIX,flyzy2005.com
 DOMAIN-SUFFIX,fnac.be
@@ -2450,13 +2446,6 @@ DOMAIN-SUFFIX,hk.geocities.com
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,hk.jiepang.com
-DOMAIN-SUFFIX,hk.knowledge.yahoo.com
-DOMAIN-SUFFIX,hk.myblog.yahoo.com
-DOMAIN-SUFFIX,hk.news.yahoo.com
-DOMAIN-SUFFIX,hk.rd.yahoo.com
-DOMAIN-SUFFIX,hk.search.yahoo.com
-DOMAIN-SUFFIX,hk.video.news.yahoo.com
-DOMAIN-SUFFIX,hk.yahoo.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,hk32168.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
@@ -3255,7 +3244,6 @@ DOMAIN-SUFFIX,megavideo.com
 DOMAIN-SUFFIX,megurineluka.com
 DOMAIN-SUFFIX,meirixiaochao.com
 DOMAIN-SUFFIX,meltoday.com
-DOMAIN-SUFFIX,meme.yahoo.com
 DOMAIN-SUFFIX,memehk.com
 DOMAIN-SUFFIX,memorybbs.com
 DOMAIN-SUFFIX,memri.org
@@ -3556,7 +3544,6 @@ DOMAIN-SUFFIX,news.sina.com.tw
 DOMAIN-SUFFIX,news.singtao.ca
 DOMAIN-SUFFIX,news.tvb.com
 DOMAIN-SUFFIX,news.tvbs.com.tw
-DOMAIN-SUFFIX,news.yahoo.com
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,news100.com.tw
 DOMAIN-SUFFIX,newsancai.com
@@ -3767,6 +3754,7 @@ DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,openervpn.in
 DOMAIN-SUFFIX,openid.net
 DOMAIN-SUFFIX,openleaks.org
+DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opensource.google
 DOMAIN-SUFFIX,opentech.fund
 DOMAIN-SUFFIX,openvpn.net
@@ -3815,7 +3803,6 @@ DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,packetix.net
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,padmanet.com
-DOMAIN-SUFFIX,page.bid.yahoo.com
 DOMAIN-SUFFIX,page2rss.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,pagodabox.com
@@ -4053,7 +4040,6 @@ DOMAIN-SUFFIX,pubu.com.tw
 DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,puffstore.com
 DOMAIN-SUFFIX,pullfolio.com
-DOMAIN-SUFFIX,pulse.yahoo.com
 DOMAIN-SUFFIX,punyu.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureconcepts.net
@@ -4311,8 +4297,6 @@ DOMAIN-SUFFIX,s-dragon.org
 DOMAIN-SUFFIX,search.aol.com
 DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,search.xxx
-DOMAIN-SUFFIX,search.yahoo.co.jp
-DOMAIN-SUFFIX,search.yahoo.com
 DOMAIN-SUFFIX,searchtruth.com
 DOMAIN-SUFFIX,searx.me
 DOMAIN-SUFFIX,seattlefdc.com
@@ -5093,22 +5077,13 @@ DOMAIN-SUFFIX,tvider.com
 DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvplayvideos.com
 DOMAIN-SUFFIX,tvunetworks.com
-DOMAIN-SUFFIX,tw.answers.yahoo.com
-DOMAIN-SUFFIX,tw.bid.yahoo.com
 DOMAIN-SUFFIX,tw.gigacircle.com
 DOMAIN-SUFFIX,tw.hao123.com
 DOMAIN-SUFFIX,tw.iqiyi.com
 DOMAIN-SUFFIX,tw.jiepang.com
-DOMAIN-SUFFIX,tw.knowledge.yahoo.com
-DOMAIN-SUFFIX,tw.mall.yahoo.com
-DOMAIN-SUFFIX,tw.mobi.yahoo.com
-DOMAIN-SUFFIX,tw.money.yahoo.com
-DOMAIN-SUFFIX,tw.myblog.yahoo.com
-DOMAIN-SUFFIX,tw.news.yahoo.com
 DOMAIN-SUFFIX,tw.streetvoice.com
 DOMAIN-SUFFIX,tw.tomonews.net
 DOMAIN-SUFFIX,tw.voa.mobi
-DOMAIN-SUFFIX,tw.yahoo.com
 DOMAIN-SUFFIX,tw01.org
 DOMAIN-SUFFIX,twaitter.com
 DOMAIN-SUFFIX,twapperkeeper.com
@@ -5258,7 +5233,6 @@ DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,unstable.icu
 DOMAIN-SUFFIX,untraceable.us
 DOMAIN-SUFFIX,uocn.org
-DOMAIN-SUFFIX,upcoming.yahoo.com
 DOMAIN-SUFFIX,upghsbc.com
 DOMAIN-SUFFIX,upholdjustice.org
 DOMAIN-SUFFIX,upload4u.info
@@ -5355,7 +5329,6 @@ DOMAIN-SUFFIX,video.ap.org
 DOMAIN-SUFFIX,video.fdbox.com
 DOMAIN-SUFFIX,video.foxbusiness.com
 DOMAIN-SUFFIX,video.pbs.org
-DOMAIN-SUFFIX,video.yahoo.com
 DOMAIN-SUFFIX,videobam.com
 DOMAIN-SUFFIX,videodetective.com
 DOMAIN-SUFFIX,videomega.tv
@@ -5714,7 +5687,6 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x1949x.com
 DOMAIN-SUFFIX,x24hr.com
 DOMAIN-SUFFIX,x365x.com
-DOMAIN-SUFFIX,xa.yimg.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,xbabe.com
@@ -5804,7 +5776,12 @@ DOMAIN-SUFFIX,xyy69.com
 DOMAIN-SUFFIX,xyy69.info
 DOMAIN-SUFFIX,y2mate.com
 DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.com.hk
+DOMAIN-SUFFIX,yahoo.com.sg
+DOMAIN-SUFFIX,yahoo.com.tw
+DOMAIN-SUFFIX,yahoo.net
 DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yam.com
 DOMAIN-SUFFIX,yam.org.tw
@@ -5833,6 +5810,7 @@ DOMAIN-SUFFIX,yibaochina.com
 DOMAIN-SUFFIX,yidio.com
 DOMAIN-SUFFIX,yigeni.com
 DOMAIN-SUFFIX,yilubbs.com
+DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yingsuoss.com
 DOMAIN-SUFFIX,yinlei.org
 DOMAIN-SUFFIX,yipub.com
