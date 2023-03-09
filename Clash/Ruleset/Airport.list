@@ -1,12 +1,4 @@
-# AmyTelecom
-DOMAIN-SUFFIX,amysecure.com
-DOMAIN-SUFFIX,amytele.net
 # BYGCloud
 DOMAIN-SUFFIX,bygcloud.com
-# ImmTelecom
-DOMAIN-SUFFIX,immtel.com
-# Kuromis
-DOMAIN-SUFFIX,kuromis.com
-# Nexitally
-DOMAIN-SUFFIX,nexitally.com
-DOMAIN-SUFFIX,nexitally.net
+# MESL
+DOMAIN-SUFFIX,mesl.cloud
