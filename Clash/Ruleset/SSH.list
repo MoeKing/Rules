@@ -4,19 +4,6 @@ PROCESS-NAME,fzputtygen.exe
 PROCESS-NAME,fzsftp.exe
 PROCESS-NAME,fzstorj.exe
 PROCESS-NAME,uninstall.exe
-# Parallels Client
-PROCESS-NAME,2XClientScan.exe
-PROCESS-NAME,2xKOff.exe
-PROCESS-NAME,APPServerClient.exe
-PROCESS-NAME,BasicClientInstaller.exe
-PROCESS-NAME,MirrInst32.exe
-PROCESS-NAME,MirrInst64.exe
-PROCESS-NAME,RASEdgeBrowser.exe
-PROCESS-NAME,RDPServerShell.exe
-PROCESS-NAME,TSClient.exe
-PROCESS-NAME,TUXCredProv.exe
-PROCESS-NAME,TuxWinClientService.exe
-PROCESS-NAME,printjob.exe
 # PuTTY
 PROCESS-NAME,pageant.exe
 PROCESS-NAME,plink.exe
@@ -26,15 +13,3 @@ PROCESS-NAME,putty.exe
 PROCESS-NAME,puttygen.exe
 # WinSCP
 PROCESS-NAME,WinSCP.exe
-# Xshell
-PROCESS-NAME,CrashSender.exe
-PROCESS-NAME,LiveUpdate.exe
-PROCESS-NAME,RealCmdModule.exe
-PROCESS-NAME,SessionConverter.exe
-PROCESS-NAME,Xagent.exe
-PROCESS-NAME,XmanagerRDP.exe
-PROCESS-NAME,Xshell.exe
-PROCESS-NAME,XshellCore.exe
-PROCESS-NAME,Xtransport.exe
-PROCESS-NAME,installanchorservice.exe
-PROCESS-NAME,nsregister.exe

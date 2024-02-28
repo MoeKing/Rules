@@ -1,0 +1,22 @@
+# BookWalkerJP
+DOMAIN-SUFFIX,bookwalker.jp
+# Niconico
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+# Pixiv
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixivision.net
+DOMAIN-SUFFIX,pixivsketch.net
+DOMAIN-SUFFIX,pximg.net
+# Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+# XVideos
+DOMAIN-SUFFIX,vscdns.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com

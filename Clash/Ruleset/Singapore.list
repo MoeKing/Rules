@@ -1,3 +1,4 @@
+# GitHub
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -36,3 +37,14 @@ IP-CIDR,54.168.17.15/32,no-resolve
 IP-CIDR,54.238.117.237/32,no-resolve
 IP-CIDR6,2606:50c0::/32,no-resolve
 IP-CIDR6,2a0a:a440::/29,no-resolve
+# JMComic
+DOMAIN-SUFFIX,18comic.company
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,jm365.me
+DOMAIN-SUFFIX,jmcomic.bet
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-SUFFIX,jmcomic.onl
+DOMAIN-SUFFIX,jmcomic1.me
+DOMAIN-SUFFIX,jmcomic1.onl
+DOMAIN-SUFFIX,jmcomic1.win
